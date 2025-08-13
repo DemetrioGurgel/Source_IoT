@@ -227,6 +227,34 @@ ParameterCount=0
 VariationCount=0
 ParamVariationCount=0
 
+[Parameter1]
+Name=Rev
+Value=v.0.1
+
+[Parameter2]
+Name=NumeroContrato
+Value=1* Contrato
+
+[Parameter3]
+Name=Conta
+Value=Virtus CC
+
+[Parameter4]
+Name=Revisor
+Value=Jonatas
+
+[Parameter5]
+Name=Projetista
+Value=Demétrio de Luna Gurgel
+
+[Parameter6]
+Name=Projeto
+Value=Virtus CC
+
+[Parameter7]
+Name=TítuloProjeto
+Value=Fonte Padrão IoT
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
