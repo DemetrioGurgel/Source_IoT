@@ -1,0 +1,16 @@
+Added Component: Designator=SCW1(SCREWM3)
+Added Component: Designator=SCW2(SCREWM3)
+Added Component: Designator=SCW3(SCREWM3)
+Added Component: Designator=SCW4(SCREWM3)
+Added Component: Designator=STF1(R30-1011502)
+Added Component: Designator=STF2(R30-1011502)
+Added Component: Designator=STF3(R30-1011502)
+Added Component: Designator=STF4(R30-1011502)
+Added Member To Class: ClassName=Mecânica Member=Component SCW1 SCREW_M3
+Added Member To Class: ClassName=Mecânica Member=Component SCW2 SCREW_M3
+Added Member To Class: ClassName=Mecânica Member=Component SCW3 SCREW_M3
+Added Member To Class: ClassName=Mecânica Member=Component SCW4 SCREW_M3
+Added Member To Class: ClassName=Mecânica Member=Component STF1 R30-1011502
+Added Member To Class: ClassName=Mecânica Member=Component STF2 R30-1011502
+Added Member To Class: ClassName=Mecânica Member=Component STF3 R30-1011502
+Added Member To Class: ClassName=Mecânica Member=Component STF4 R30-1011502
